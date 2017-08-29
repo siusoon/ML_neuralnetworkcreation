@@ -1,4 +1,5 @@
 # Neural Network Creation in Javascript
+![Image of neural network creation](https://github.com/siusoon/ML_neuralnetworkcreation/blob/master/mljs.png)
 
 - Run [here](https://cdn.rawgit.com/siusoon/ML_neuralnetworkcreation/2c793a66/index.html)
 - Use the library [synaptic.js](https://github.com/cazala/synaptic)
