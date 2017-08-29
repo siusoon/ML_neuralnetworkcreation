@@ -47,18 +47,12 @@ for (var i = 0; i < 20000; i++) {
 
 // test the network (varies everytime)
 
-console.log(myNetwork.activate([0,0])); 
-
-console.log(myNetwork.activate([0,1]));
-
-console.log(myNetwork.activate([1,0]));
-
-console.log(myNetwork.activate([1,1]));
-
+document.write('learning [0,0]:'+myNetwork.activate([0,0])+'<br/>');
+document.write('learning [0,1]:'+myNetwork.activate([0,1])+'<br/>');
+document.write('learning [1,0]:'+myNetwork.activate([1,0])+'<br/>');
+document.write('learning [1,1]:'+myNetwork.activate([1,1])+'<br/>');
 </script>
 </head>
 <body>
-
-Check console.log
 </body>
 </html>
